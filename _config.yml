@@ -1,13 +1,13 @@
 # Site Settings
-name: مهندسی اجتماعی
-title: مهندسی اجتماعی
-description: کتابچه نکات مهندسی اجتماعی
+name: امنیت مخابرات و وایرلس
+title: امنیت مخابرات و وایرلس
+description: کتابچه نکات امنیت شبکه های مخابراتی و بی سیم
 tags:
-  - social
-  - engineering
+  - wireless
+  - telecom
   - امنیت
-  - مهندسی_اجتماعی
-  - هکر
+  - مخابرات
+  - بی سیم
 show_hero: true
 
 
@@ -35,7 +35,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-162350921-1"
 language: "en"
 
 
